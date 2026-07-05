@@ -1,7 +1,7 @@
 ## Hi👋, I'm LUCKY DUBEY
 
 ## 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:luckydubey242005@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/lucky-dubey-aa2107420) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:luckydubey242005@gmail.com) 
 
 <!-- Snake Game Repo View -->
 
